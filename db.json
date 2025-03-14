@@ -1,0 +1,14 @@
+{
+  "Users": [
+    {
+      "email": "ivan.lds",
+      "senha": "ivan1234",
+      "id": 1
+    },
+    {
+      "email": "ivan",
+      "senha": "12312312",
+      "id": 2
+    }
+  ]
+}
