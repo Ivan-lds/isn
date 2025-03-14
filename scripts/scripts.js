@@ -69,7 +69,7 @@ button.addEventListener("click", async (event) => {
   const userData = { email, senha };
 
   try {
-    const response = await fetch("https://seu-projeto.vercel.app/api/Users", {
+    const response = await fetch("https://reels-asda55a1a95s9.vercel.app/api/Users", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
