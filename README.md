@@ -10,8 +10,6 @@ Este projeto foi desenvolvido como pré requisito para conclusão de um Desafio 
 
 O projeto conta com uma Tela de Carregamento, Carrossel de Imagens Dinâmico, Float Labels, entre outras implementações. 
 
-**[Clique aqui para acessar a plataforma em produção](https://daniseveriano.github.io/clone-da-interface-instagram/).**
-
 ### - Telas:
 
 ![](https://i.ibb.co/93NFjXw/Captura-de-tela-2022-05-31-02-41-31.png)
